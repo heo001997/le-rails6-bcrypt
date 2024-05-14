@@ -39,3 +39,9 @@ yarn-debug.log*
 
 # Ignore db test files.
 db/test.*
+
+/config/credentials/development.key
+
+/config/credentials/test.key
+
+/config/credentials/production.key
